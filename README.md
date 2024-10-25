@@ -1,5 +1,9 @@
 # Sentence-Completion-Using-a-Word-Level-LSTM-Model
 
+## RESEARCH PAPER
+[Report_Word_Completion_using_LSTM.pdf](https://github.com/user-attachments/files/17525796/Report_Word_Completion_using_LSTM.pdf)
+
+
 # Project Overview
 This project involves building a word-level LSTM (Long Short-Term Memory) model for sentence completion, trained on Shakespeare's plays. The goal is to predict the next word in a sequence, providing real-time word suggestions as users type. Users can input partial sentences, and the trained model will suggest the next words dynamically. The interface provides an interactive experience for exploring how well the model can generate text in the style of Shakespeare.
 
